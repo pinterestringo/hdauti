@@ -19,6 +19,8 @@ whether that's analyzing data, building tools, or just figuring out how things w
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ## 📌 Featured Projects
 - 🧬 **DNA Sequence Analyzer** *(C++)* — coming soon
@@ -26,5 +28,5 @@ whether that's analyzing data, building tools, or just figuring out how things w
 - 🌐 **Web Projects** — HTML/CSS/JS sites built for class and for fun
 
 ## 📫 Let's Connect
--  [LinkedIn](www.linkedin.com/in/hana-dauti-4806482aa) ← swap in your real link
+-  [LinkedIn](www.linkedin.com/in/hana-dauti-4806482aa) 
 -  hana.dauti55@gmail.com
