@@ -24,7 +24,7 @@ whether that's analyzing data, building tools, or just figuring out how things w
 
 ## 📌 Featured Projects
 - 🧬 **DNA Sequence Analyzer** *(C++)* — coming soon
-- 📊 **Biostats Project** — exploratory data analysis with R
+- 📊 **[FIFA 21 Player Value Analysis](https://pinterestringo.github.io/fifa21-player-value-analysis)** — multiple linear regression in R exploring how pace and passing predict player market value
 - 🌐 **Web Projects** — HTML/CSS/JS sites built for class and for fun
 
 ## 📫 Let's Connect
